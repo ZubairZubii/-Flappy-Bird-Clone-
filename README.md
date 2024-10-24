@@ -47,7 +47,7 @@ Welcome to the **Flappy Bird Clone** project, a classic arcade game built using 
 
 ## 📽️ Watch the Game in Action!
 
-Check out our gameplay video here: [Flappy Bird Gameplay](https://www.loom.com/share/d325e5d93d114f198e971fb4d61ca266?sid=22c206cf-64b5-4d14-8b1b-114cb113b3d3)
+👉 Check out our gameplay video here: [Flappy Bird Gameplay](https://www.loom.com/share/d325e5d93d114f198e971fb4d61ca266?sid=22c206cf-64b5-4d14-8b1b-114cb113b3d3)
 
 ## 🎮 How to Play
 
