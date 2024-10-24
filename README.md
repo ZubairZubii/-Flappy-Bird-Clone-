@@ -3,7 +3,7 @@ Here's an updated README file reflecting your project's structure. You can copy 
 ```markdown
 # 🐦 Flappy Bird Clone 🐦
 
-![Flappy Bird](./imgs/game.png)
+![Flappy Bird](imgs/game.png)
 
 
 
