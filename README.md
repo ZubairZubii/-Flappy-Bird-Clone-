@@ -3,7 +3,8 @@ Here's an updated README file reflecting your project's structure. You can copy 
 ```markdown
 # 🐦 Flappy Bird Clone 🐦
 
-![Flappy Bird](https://github.com/user-attachments/assets/1cfae4a2-160c-495a-b529-f68d6c92658f)
+![Flappy Bird](./imgs/game.png)
+
 
 
 
