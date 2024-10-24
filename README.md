@@ -3,7 +3,9 @@ Here's an updated README file reflecting your project's structure. You can copy 
 ```markdown
 # 🐦 Flappy Bird Clone 🐦
 
-![Flappy Bird](https://upload.wikimedia.org/wikipedia/en/a/a9/Flappy_Bird.png)
+![Flappy Bird]
+![game](https://github.com/user-attachments/assets/1cfae4a2-160c-495a-b529-f68d6c92658f)
+
 
 Welcome to the **Flappy Bird Clone** project, a classic arcade game built using Python and Pygame! 🕹️ This game features pixel-perfect collision detection using masks, making the gameplay smooth and engaging. 
 
